@@ -1,4 +1,5 @@
 # CNN Image Classifier: From Scratch & Fine-tuning
+[Wandb report](https://api.wandb.ai/links/cs24m030-indian-institute-of-technology-madras/7hss7847)
 
 A comprehensive implementation of CNN-based image classifiers using the iNaturalist dataset. This project is part of the DA6401 Assignment 2, focusing on two approaches:
 1. Training a CNN from scratch with hyperparameter optimization
